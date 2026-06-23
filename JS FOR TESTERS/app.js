@@ -1,25 +1,5 @@
-// for(let number = 1; number<=20; number = number+1){
-// if(number % 2 !==0){
-//     console.log (number +' is an odd number')
-// }
-// }
+alert('Hello World!')
 
 
-// function calculateAreaOfRectangle(length, width) {
-//     let area = length * width
-//     return area
-// }
-// let areaOfRectangle = calculateAreaOfRectangle(5, 6)
-// console.log(areaOfRectangle)
 
 
-// const myBestFriends = ['Blessing', "Chizzy","Amara", 'Dera', 'Lynda']
-// const myBestie = myBestFriends[0]
-// console.log(myBestie)
-
-
-const months = ['January', 'Februrary', 'March', 'April', 'May', 'June', 'July']
-for(let start = 0; start<=months.length; start = start+1){
-    months.pop()
-}
-console.log(months)
